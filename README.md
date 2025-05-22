@@ -48,15 +48,7 @@ Automate disposable and resilient Red Team infrastructure using **Terraform**.
    terraform destroy
    ```
 
-## 📁 Project Structure
 
-```
-.
-├── modules/         # Reusable Terraform modules
-├── environments/    # Environment-specific configurations
-├── scripts/         # Setup and automation scripts
-├── README.md        # Project documentation
-```
 
 ## 🤝 Contribution
 
