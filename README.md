@@ -1,4 +1,4 @@
-# 🛡️ Red Team Infrastructure Aut
+# 🛡️ Red Team Infrastructure Auto
 
 Automate disposable and resilient Red Team infrastructure using **Terraform**.
 
